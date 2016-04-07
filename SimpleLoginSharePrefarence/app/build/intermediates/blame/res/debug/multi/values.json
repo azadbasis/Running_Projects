@@ -1,0 +1,471 @@
+[
+    {
+        "outputFile": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endLine": 35,
+                        "endColumn": 19,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endLine": 34,
+                    "endColumn": 19,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endLine": 56,
+                        "endColumn": 19,
+                        "endOffset": 1974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endColumn": 57,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 55,
+                    "endOffset": 1106
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1111,
+                    "endColumn": 52,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 52,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 35,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 35,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endColumn": 55,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 55,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 41,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 41,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 53,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 53,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 52,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 630,
+                        "endColumn": 52,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 47,
+                    "endOffset": 1448
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 47,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1453,
+                    "endColumn": 41,
+                    "endOffset": 1490
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 41,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1495,
+                    "endColumn": 45,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 45,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 50,
+                    "endOffset": 1587
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 50,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1592,
+                    "endColumn": 43,
+                    "endOffset": 1631
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 43,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1636,
+                    "endColumn": 49,
+                    "endOffset": 1681
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 49,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1686,
+                    "endColumn": 65,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 65,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endColumn": 64,
+                    "endOffset": 1812
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 64,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1817,
+                    "endColumn": 64,
+                    "endOffset": 1877
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 64,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1882,
+                    "endColumn": 66,
+                    "endOffset": 1944
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 66,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1949,
+                    "endColumn": 37,
+                    "endOffset": 1982
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 37,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1987,
+                    "endColumn": 45,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 45,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 2319
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2324,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 2479
+                },
+                "from": {
+                    "file": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

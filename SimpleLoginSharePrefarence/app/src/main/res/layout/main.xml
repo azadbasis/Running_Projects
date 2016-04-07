@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/myLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#307f83"
+    android:orientation="vertical">
+
+    <AbsoluteLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="0">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="24dp"
+            android:layout_y="0dp"
+            android:paddingTop="5dp"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@android:color/holo_orange_dark"
+            android:text="Students Marks" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="50dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="@string/roll_no" />
+
+        <EditText
+            android:id="@+id/editRollno"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_x="150dp"
+            android:layout_y="50dp"
+
+            android:background="#f9f6f6"
+            android:inputType="number" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="100dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="@string/name" />
+
+        <EditText
+            android:id="@+id/editName"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_x="150dp"
+            android:layout_y="100dp"
+            android:background="#f9f6f6"
+            android:inputType="text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="30dp"
+            android:layout_y="150dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:text="@string/marks" />
+
+        <EditText
+            android:id="@+id/editMarks"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_x="150dp"
+            android:layout_y="150dp"
+            android:background="#f9f6f6"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_x="30dp"
+            android:layout_y="200dp"
+            android:text="@string/add" />
+
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_x="150dp"
+            android:layout_y="200dp"
+            android:text="@string/delete" />n
+
+        <Button
+            android:id="@+id/btnModify"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_x="30dp"
+            android:layout_y="250dp"
+            android:text="@string/modify" />
+
+        <Button
+            android:id="@+id/btnView"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_x="150dp"
+            android:layout_y="250dp"
+            android:text="@string/view" />
+
+        <Button
+            android:id="@+id/btnViewAll"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_x="30dp"
+            android:layout_y="300dp"
+            android:text="@string/view_all" />
+
+        <Button
+            android:id="@+id/btnShowInfo"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_x="150dp"
+            android:layout_y="300dp"
+            android:text="@string/show_info" />
+
+    </AbsoluteLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|right|center"
+        android:layout_marginTop="-45dp"
+        android:background="@android:drawable/bottom_bar">
+
+        <Button
+            android:id="@+id/ourCredit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="false"
+            android:layout_marginBottom="-4dp"
+            android:drawablePadding="2sp"
+            android:drawableRight="@drawable/btnnext"
+            android:text="Credit By" />
+
+    </RelativeLayout>
+
+</LinearLayout>
