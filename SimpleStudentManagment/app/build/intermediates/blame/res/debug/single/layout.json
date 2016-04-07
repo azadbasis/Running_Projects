@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\activity_feature.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\credit.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\layout\\credit.xml"
+    }
+]

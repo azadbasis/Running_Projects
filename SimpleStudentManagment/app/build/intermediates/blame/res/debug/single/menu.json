@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gmain.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\menu\\gmain.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\swmain.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\menu\\swmain.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\signup.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\menu\\signup.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sign_up.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\menu\\sign_up.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\welcome.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\menu\\welcome.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "G:\\AndroidStudioWorkSpace\\Project\\SimpleLoginSharePrefarence\\app\\src\\main\\res\\menu\\login.xml"
+    }
+]
