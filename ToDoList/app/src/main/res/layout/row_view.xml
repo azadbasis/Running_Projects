@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layout_margin="10dp">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/text_date"
+    android:padding="10dp"
+    android:textSize="15sp"
+    android:textColor="@color/colorRose"
+    android:id="@+id/tvDate"
+/>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/tvTaskName"
+    android:text="@string/text_name"
+    android:textColor="@color/colorDarkBlack"
+    android:padding="8dp"
+    android:textSize="18sp"
+    android:layout_below="@+id/tvDate"
+    />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/tvCategory"
+    android:textColor="@color/colorBlue"
+    android:text="@string/text_category"
+    android:textSize="15sp"
+    android:padding="10dp"
+    android:layout_alignParentRight="true"
+    />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/tvDescription"
+    android:text="@string/text_description"
+    android:textSize="13sp"
+    android:padding="20dp"
+    android:layout_alignBottom="@+id/tvTaskName"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true" />
+</RelativeLayout>
